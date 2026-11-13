@@ -24,6 +24,7 @@ npm run preview   # 预览构建结果
 │   ├── App.tsx             # 页面组装
 │   ├── components/         # 各区块组件
 │   │   ├── Hero / Pipeline / Features / Repos / Specs
+│   │   ├── CostEstimator # 硬件报价计算器（预设 / 选配 / 成本结构）
 │   │   ├── TechStack / QuickStart / Roadmap / Community
 │   │   ├── Navbar / Footer / RobotDiagram
 │   │   └── ui/             # CodeBlock、Icons、Logo、Reveal、SectionHeader
@@ -31,6 +32,7 @@ npm run preview   # 预览构建结果
 │   │   ├── site.ts         # 导航、Hero、通用文案
 │   │   ├── repos.ts        # 仓库卡片信息
 │   │   ├── specs.ts        # 技术规格
+│   │   ├── cost.ts         # 硬件报价 BOM、预设与计算
 │   │   └── quickstart.ts   # 快速开始步骤与代码片段
 │   ├── lib/i18n.tsx        # 中英文切换（localStorage 记忆）
 │   ├── utils/cn.ts         # className 合并

@@ -1,5 +1,5 @@
 import { ArrowRight, ChevronRight } from "lucide-react";
-import heroImg from "@/assets/opendoge-hero.jpg";
+import heroImg from "@/assets/cad-exploded.jpg";
 import { GITHUB_ORG, HERO, STATS } from "@/data/site";
 import { useLang } from "@/lib/i18n";
 import { GithubIcon } from "./ui/Icons";

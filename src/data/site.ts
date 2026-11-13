@@ -30,6 +30,7 @@ export const NAV_LINKS: NavLink[] = [
   { id: "features", label: l("核心特性", "Features") },
   { id: "repos", label: l("代码仓库", "Repositories") },
   { id: "specs", label: l("技术规格", "Specs") },
+  { id: "cost", label: l("硬件报价", "Cost") },
   { id: "quickstart", label: l("快速开始", "Quick Start") },
   { id: "roadmap", label: l("路线图", "Roadmap") },
   { id: "community", label: l("社区", "Community") },
